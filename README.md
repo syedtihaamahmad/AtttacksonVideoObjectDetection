@@ -3,6 +3,7 @@
 Test videos and attack video results are saved in assets folder in .mp4 formats
 
 
+
 Setup python3.6 conda env, install requirements and run demo_ssd300.ipynb
 
 # Adversarial gradient attack based on SSD300
@@ -29,12 +30,15 @@ Picture attack
 # Acknowlegement
 
 
-This project is developed based on the following repositories:
+This project is developed based on the following repositories and paper:
 
 
 [TOG](https://github.com/git-disl/TOG)
 
 [YOLO](https://github.com/qqwweee/keras-yolo3)
+
+[paper](https://khchow.com/media/arXiv_TOG.pdf)
+
 
 
 
