@@ -17,9 +17,9 @@ Setup python3.7 conda env, install requirements and run demo_patch.ipynb
 
 # GAN based attack based on YOLO
 
-Training dataset :
+Training dataset : INRIA person dataset
 
-![INRIA person dataset](http://pascal.inrialpes.fr/data/human/)
+![](http://pascal.inrialpes.fr/data/human/)
 
 Video Attack
 
