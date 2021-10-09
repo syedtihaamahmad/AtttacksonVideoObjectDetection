@@ -19,7 +19,7 @@ Setup python3.7 conda env, install requirements and run demo_patch.ipynb
 
 Training dataset : INRIA person dataset
 
-![](http://pascal.inrialpes.fr/data/human/)
+[link](http://pascal.inrialpes.fr/data/human/)
 
 Video Attack
 
